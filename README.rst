@@ -1,4 +1,4 @@
-Electrum-LTC - Lightweight Litecoin client
+Electrum-Crypto Gaule - Lightweight Crypto Gaule client
 ==========================================
 
 ::
@@ -9,7 +9,10 @@ Electrum-LTC - Lightweight Litecoin client
   Language: Python
   Homepage: https://electrum-ltc.org/
 
-
+Crypto Gaule Electrum
+  Original Author: Damien Morales
+  Language: Python
+  Homepage: https://cryptogaule.fr/
 
 
 
@@ -27,7 +30,7 @@ Electrum from its root directory, without installing it on your
 system; all the python dependencies are included in the 'packages'
 directory. To run Electrum from its root directory, just do::
 
-    ./electrum-ltc
+    ./electrum-cryptogaule
 
 You can also install Electrum on your system, by running this command::
 
