@@ -51,7 +51,7 @@ Development version
 
 Check out the code from Github::
 
-    git clone git://github.com/pooler/electrum-ltc.git
+    git clone git://github.com/Cryptogaule/Electrum-CryptoGaule.git
     cd electrum-ltc
 
 Run install (this should install dependencies)::
@@ -97,7 +97,7 @@ Mac OS X / macOS
     # On Homebrew installs: 
     ARCHFLAGS="-arch i386 -arch x86_64" sudo python3 setup-release.py py2app --includes sip
     
-    sudo hdiutil create -fs HFS+ -volname "Electrum-LTC" -srcfolder dist/Electrum-LTC.app dist/electrum-ltc-VERSION-macosx.dmg
+    sudo hdiutil create -fs HFS+ -volname "Electrum-LTC" -srcfolder dist/Electrum-CRG.app dist/electrum-ltc-VERSION-macosx.dmg
 
 Windows
 -------
